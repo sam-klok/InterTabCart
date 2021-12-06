@@ -26,7 +26,6 @@ export class AppComponent {
         console.log('message received ' + this.cartCounter);
         this.cd.detectChanges();
       }
-
     }
   }
 
